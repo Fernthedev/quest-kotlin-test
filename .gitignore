@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/kotlin/androidNativeArm64/main/klib/
+/build/classes/kotlin/native/main/klib/
+idea/sonarlint
