@@ -16,3 +16,10 @@ TODO:
   - [x] ADB logcat works out of the box
   - [ ] make paperlog bindings?
 - [ ] custom-types/codegen/questui bindings
+
+Potential use cases:
+- Web Server
+- Serialization data
+- Library entrypoint
+- Possibly friendlier entrypoint to quest modding
+- magic
